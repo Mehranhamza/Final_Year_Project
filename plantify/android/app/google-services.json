@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140655666310",
+    "project_id": "fyp-plantify",
+    "storage_bucket": "fyp-plantify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140655666310:android:4bfa03416adc599adb9d07",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEF0-HN1hWLs8h8dvQPAYnRARIOtlSR6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140655666310:android:4c2d2ba618c047dedb9d07",
+        "android_client_info": {
+          "package_name": "com.example.plantify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEF0-HN1hWLs8h8dvQPAYnRARIOtlSR6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
