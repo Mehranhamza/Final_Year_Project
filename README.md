@@ -11,7 +11,7 @@ Group Members:
 
 
 
-****Screenshots****
+****User Side Screenshots****
 
 ![WhatsApp Image 2024-02-28 at 5 55 23 PM](https://github.com/Mehranhamza/Plantify.AR-24-FYP-102/assets/110326892/2e91d63b-2ec6-4d0f-8978-8149732a20b2)
 ![WhatsApp Image 2024-02-28 at 5 55 23 PM (1)](https://github.com/Mehranhamza/Plantify.AR-24-FYP-102/assets/110326892/8317fd01-bc85-48fb-a8ad-1fe4c1235ecb)
