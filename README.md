@@ -1,8 +1,8 @@
 **Final Year Project**
 
-Group ID:  **24-FYP-102**
+Group ID:      **24-FYP-102**
 
-Project Name: **Plantify.AR (Design, buy and grow)**
+Project Name:     **Plantify.AR (Design, buy and grow)**
 
 Group Members:
 1.	Mariam Afzal (20-NTU-CS-1065)
