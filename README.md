@@ -9,7 +9,12 @@ Group Members:
 2.	Mehran Hamza (20-NTU-CS-1066) **(Leader)**
 3.	Muhammad Hammad (20-NTU-CS-1165)
 
+**Tools/Technologies:**
 
+1. Flutter
+2. Firebase
+3. Vscode
+4. Augmented Reality
 
 ****User Side Screenshots****
 
