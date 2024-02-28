@@ -14,7 +14,8 @@ Group Members:
 1. Flutter
 2. Firebase
 3. Vscode
-4. Augmented Reality
+4. Augmented Reality in Flutter
+5. Lottie Animation
 
 ****User Side Screenshots****
 
